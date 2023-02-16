@@ -7,12 +7,12 @@
 |__|  |__| |_______||_______||_______| \______/         |__|     |__|  |__| |_______|| _| `._____||_______|
 </pre>
 
-## I am
+## 🤖 Shortly About Myself
 <p>
  Self-taught web developer and tech enthusiast, always striving to learn more.
 </p>
  
-#### Contact with me
+## 🌍 I'm On The Web
 
 <p>
  <a href="https://linkedin.com/in/saidafzalkholkhujaev/" target="_blank">
@@ -27,7 +27,7 @@
 </p>
 <br />
 
-## Use To Code
+## 💻 Use To Code
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
