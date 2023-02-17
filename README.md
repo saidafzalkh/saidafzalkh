@@ -8,10 +8,11 @@
 </pre>
 
 ## 🤖 Shortly About Myself
+
 <p>
  Self-taught web developer and tech enthusiast, always striving to learn more.
 </p>
- 
+
 ## 🌍 I'm On The Web
 
 <p>
@@ -25,7 +26,6 @@
   <img src="https://img.shields.io/badge/Telegram-20BEFF?&style=for-the-badge&logo=telegram&logoColor=white" alt="saidafzalkhokhujaev"  />
   </a> 
 </p>
-<br />
 
 ## 💻 Use To Code
 
