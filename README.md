@@ -1,5 +1,6 @@
 ### Hello there!
-
+![](https://img.shields.io/github/repo-size/saidafzalkh/saidafzalkh?label=size)
+![](https://img.shields.io/github/last-commit/saidafzalkh/saidafzalkh?label=updated)
 <p>
  I'm Saidafzal Kholkhujaev. I work as mentor in <b> Fantastic Academy. </b> In my spare time I am larning smth new and write code for myself. I've pinned my favorite works below
 </p>
