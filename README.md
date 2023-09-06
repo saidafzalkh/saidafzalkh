@@ -2,7 +2,7 @@
 ![](https://img.shields.io/github/repo-size/saidafzalkh/saidafzalkh?label=size)
 ![](https://img.shields.io/github/last-commit/saidafzalkh/saidafzalkh?label=updated)
 <p>
-Now I am just studying.
+Front-end Developer
 </p>
 
 #### Get in touch:
