@@ -15,8 +15,4 @@ Front-end Developer
  <a href="https://t.me/saidafzalkhokhujaev" title="telegram">
   <img src="https://user-images.githubusercontent.com/92651113/220425422-43f06daf-e382-41d6-944f-4871242b856b.svg" alt="telegram" />
  </a>
- &nbsp;
- <a href="https://saidafzalkh.github.io/" title="personal-website">
-  <img src="https://user-images.githubusercontent.com/92651113/220428757-f4bb0977-37d9-4744-aa73-ea0e745fd87a.svg" alt="website" />
-</a>
 </p>
