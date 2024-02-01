@@ -1,7 +1,7 @@
 ### Hello there!
 ![](https://img.shields.io/github/followers/saidafzalkh?labelColor=%23231F20&color=%2300CF91)
 <p>
-Front-end Developer
+Web Developer and a living, breathing, thinking human being.
 </p>
 
 #### Get in touch:
