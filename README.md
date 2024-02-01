@@ -1,6 +1,6 @@
 ### Hello there!
 ![](https://img.shields.io/github/followers/saidafzalkh?labelColor=%23231F20&color=%2300CF91)
-![](https://img.shields.io/twitter/follow/kh_saddy?label=Follow)
+// ![](https://img.shields.io/twitter/follow/kh_saddy?label=Follow)
 <p>
 Front-end Developer
 </p>
